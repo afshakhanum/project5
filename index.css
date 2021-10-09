@@ -5,14 +5,15 @@ ul{
     cursor: pointer;
     list-style-type: none;
     list-style: none;
-    margin: 0px;
-    padding: 0px;
+    margin: 0ch;
+    padding: 0ch;
     overflow: hidden;
-    background-color: rgb(25, 29, 25);
-    color: powderblue;
-    width: 100vw;
+    background-color: black;
+    color: cornflowerblue;
+    width: 100%;
     position: sticky;
-    bottom: 0px;
+    bottom: 0ch;
+   
 }
 li{
     float: left;
